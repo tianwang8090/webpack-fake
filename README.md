@@ -1,2 +1,4 @@
 # webpack-fake
-webpack demo practice
+
+手写 webpack 练习
+webpack core practice
